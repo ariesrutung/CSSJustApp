@@ -1990,7 +1990,7 @@ ion-view[state="mcommerce-category-list"] ion-content .scroll > div:nth-child(3)
     width: 50% !important;
     justify-content: space-between;
     align-items: center;
-    background-image: url(https://archive.org/download/burger_beef/burger_beef.jpg);
+    background-image: url(https://unpkg.com/ionicons@5.5.2/dist/svg/bag-outline.svg);
     background-position: center left 10px;
     background-repeat: no-repeat;
     background-size: 30px;
@@ -2724,8 +2724,8 @@ ion-view.mcommerce-view.mcommerce-sales-store .list .item-radio.radio-custom:nth
     margin-left: 3%;
     height: 100px;
     border-radius: 10px;
-    /* background: linear-gradient(-60deg, #f2c000 0%, #2a1007 100%) !important; */
-    background-image: url(https://archive.org/download/shope_food/shope_food.png) !important;
+    background: linear-gradient(-60deg, #f2c000 0%, #2a1007 100%) !important;
+    /* background-image: url(https://archive.org/download/shope_food/shope_food.png) !important; */
     background-position: center right 40px !important;
     background-repeat: no-repeat !important;
     background-size: 90px !important;
@@ -2740,8 +2740,8 @@ ion-view.mcommerce-view.mcommerce-sales-store .list .item-radio.radio-custom:nth
     margin-left: 3%;
     height: 100px;
     border-radius: 10px;
-    /* background: linear-gradient(-60deg, #f2c000 0%, #2a1007 100%) !important; */
-    background-image: url(https://jasacampaign.com/wp-content/uploads/2019/08/s-1.png) !important;
+    background: linear-gradient(-60deg, #f2c000 0%, #2a1007 100%) !important;
+    /* background-image: url(https://jasacampaign.com/wp-content/uploads/2019/08/s-1.png) !important;*/  
     background-position: center right 40px !important;
     background-repeat: no-repeat !important;
     background-size: 90px !important;
@@ -3892,7 +3892,7 @@ ion-view.contact-view ion-content .padding button:nth-child(6):before {
     content: "WhatsApp";
     font-weight: bold;
     font-size: 18px;
-    color: #4caf50;
+    color: #2a1007;
     visibility: visible !important;
 }
 
